@@ -12,6 +12,27 @@ body{
     color: black;
 font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.font{ 
+div{ 
     background-color: #EAA5DF;
+    margin:5px;
+    width: 15em;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+}
+
+.styles{
+    margin:auto;
+    width: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding:5px;
+    border-radius: 5em;
+}
+
+div{
+
 }
