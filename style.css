@@ -81,6 +81,7 @@ button:hover {
     align-items: center;
     padding:5px;
     border-radius: 5em;
+    border-style: solid;
 }
 
 .column{
@@ -90,12 +91,19 @@ button:hover {
 }
 
 #incomeId {
-    background-color: #EAA5DF;
-    display: flex;
-    justify-content: flex-start;
-    align-items: center;
-    padding:5px;
-    border-style: solid;
-    border-radius: 2px;
+  background-color: #EAA5DF;
+  margin:auto;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding:5px;
+  border-radius: 5em;
+  border-style: solid;
 }
 
+#monthlyInput, #dailyInput {
+  padding-right: 10rem;
+  margin-left: 75rem;
+  margin-bottom: 5rem;
+}
