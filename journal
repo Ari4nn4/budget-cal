@@ -1,0 +1,15 @@
+<style>
+    return new promise( function(resolve,reject))
+
+    let request=new xmlhttpRequest();
+
+    request.open('get',url);
+
+    request.onload=function(){
+
+    }
+    </style>
+
+    let url='http://eecu-data-server.vec'
+
+    html +='<div>' 
