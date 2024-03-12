@@ -87,3 +87,8 @@ button:hover {
     font-size: 2rem;
 }
 
+
+.pie {
+   position:absolute;
+   right:0;
+}
